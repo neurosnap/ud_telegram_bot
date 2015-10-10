@@ -1,5 +1,5 @@
 {
-  "name": "urban_dictionary_telegram_bot",
+  "name": "ud_telegram_bot",
   "version": "0.0.1",
   "description": "Urabn Dictionary Telegram Bot",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/neurosnap/urban_dictionary_telegram_bot"
+    "url": "github.com/neurosnap/ud_telegram_bot"
   },
   "keywords": [
     "telegram",
